@@ -1,0 +1,2 @@
+require("riasy")
+print("hello")
