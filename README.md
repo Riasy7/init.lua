@@ -16,6 +16,6 @@ more:
 - harpoon
 - fugitive
 etc...
-plugin manager: lazy.nvim
+plugin manager: `lazy.nvim`
 
-also griprep very useful needed for this setup
+also `griprep` very useful needed for this setup
